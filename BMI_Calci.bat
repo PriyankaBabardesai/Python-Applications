@@ -1,0 +1,1 @@
+"E:\Piyu\Python\Programs\dist\BMI_Calculator2.exe" "E:\Piyu\Python\Programs\BMI_Calculator2.py"
